@@ -26,6 +26,10 @@ Vantage Circle is a B2B SaaS employee engagement platform serving 700+ enterpris
 
 ## Projects
 
+### [Vantage Fit CSM CRM](https://github.com/Hridaypratim23/vf-portfolio-crm) — [🚀 Live Demo](https://vf-portfolio-crm.pages.dev)
+An internal CRM I built for managing corporate wellness clients — tracks renewals, FY revenue, agreements, and client health across 80+ accounts. Password: `vantagefit2026`
+`Astro 5` `Cloudflare D1` `Tailwind CSS` `TypeScript`
+
 ### [Comeback](https://github.com/Hridaypratim23/comeback) — Fitness Tracker App
 A React Native fitness app built around a PPL (Push/Pull/Legs) training split. Dark theme, clean UI, built for consistency.
 `React Native` `Mobile`
@@ -57,6 +61,8 @@ A private web app for couples — shared milestones, messaging, love jar, bucket
 
 **Tech**
 
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
