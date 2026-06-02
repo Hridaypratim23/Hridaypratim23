@@ -27,7 +27,7 @@ Vantage Circle is a B2B SaaS employee engagement platform serving 700+ enterpris
 ## Projects
 
 ### [Vantage Fit CSM CRM](https://github.com/Hridaypratim23/vf-portfolio-crm) — [🚀 Live Demo](https://vf-portfolio-crm.pages.dev)
-An internal CRM I built for managing corporate wellness clients — tracks renewals, FY revenue, agreements, and client health across 80+ accounts. Password: `vantagefit2026`
+An internal CRM I built for managing corporate wellness clients — tracks renewals, FY revenue, agreements, and client health across 80+ accounts. Password: `welcome`
 `Astro 5` `Cloudflare D1` `Tailwind CSS` `TypeScript`
 
 ### [Comeback](https://github.com/Hridaypratim23/comeback) — Fitness Tracker App
